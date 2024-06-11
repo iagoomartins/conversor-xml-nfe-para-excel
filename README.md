@@ -1,6 +1,7 @@
 Código Python Extrator de Informações de NFes
 
-Este código em Python é projetado para ler arquivos XML de Notas Fiscais Eletrônicas (NFes), extrair informações específicas e salvar esses dados em uma planilha Excel. Abaixo está uma visão geral das principais funcionalidades do script.
+Este código em Python é projetado para ler arquivos XML de Notas Fiscais Eletrônicas (NFes), extrair informações específicas e salvar esses dados em uma planilha Excel, para posteriormente apresentar tabulações ou gráficos e auxiliar na tomada de decisões.
+Abaixo está uma visão geral das principais funcionalidades do script.
 
 Funcionalidades
 - Abre e lê arquivos XML de um diretório especificado.
